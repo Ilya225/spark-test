@@ -1,0 +1,28 @@
+{"TimeSlotStart":"2018-03-23 11:45:00","Presence":false,"PresenceCnt":0,"TempCnt":12,"LocationId":"Room 0 ","TempAvg":65.0700426896641,"TempMax":65.39024481526586,"TempMin":64.8920068447585}
+{"TimeSlotStart":"2018-03-24 11:45:00","Presence":false,"PresenceCnt":0,"TempCnt":12,"LocationId":"Room 0 ","TempAvg":65.08147276615654,"TempMax":65.61754248256693,"TempMin":64.73500025077438}
+{"TimeSlotStart":"2018-03-25 11:45:00","Presence":false,"PresenceCnt":0,"TempCnt":12,"LocationId":"Room 0 ","TempAvg":65.09013521886912,"TempMax":65.34956313849325,"TempMin":64.83135839109188}
+{"TimeSlotStart":"2018-03-23 11:45:00","Presence":true,"PresenceCnt":1,"TempCnt":4,"LocationId":"Room 1 ","TempAvg":65.00849603580932,"TempMax":65.1116598809973,"TempMin":64.89235313800518}
+{"TimeSlotStart":"2018-03-24 11:45:00","Presence":false,"PresenceCnt":0,"TempCnt":4,"LocationId":"Room 1 ","TempAvg":64.97846591883328,"TempMax":65.07116892827672,"TempMin":64.87171845330175}
+{"TimeSlotStart":"2018-03-25 11:45:00","Presence":false,"PresenceCnt":0,"TempCnt":4,"LocationId":"Room 1 ","TempAvg":65.14123383505407,"TempMax":65.25006044083405,"TempMin":65.03940253433935}
+{"TimeSlotStart":"2018-03-23 11:45:00","Presence":true,"PresenceCnt":1,"TempCnt":8,"LocationId":"Room 2 ","TempAvg":65.22898675920342,"TempMax":65.32715019592045,"TempMin":65.10805411144437}
+{"TimeSlotStart":"2018-03-24 11:45:00","Presence":false,"PresenceCnt":0,"TempCnt":8,"LocationId":"Room 2 ","TempAvg":65.34574102669042,"TempMax":65.57530892162092,"TempMin":65.03612040874148}
+{"TimeSlotStart":"2018-03-25 11:45:00","Presence":false,"PresenceCnt":0,"TempCnt":8,"LocationId":"Room 2 ","TempAvg":64.94230021685031,"TempMax":65.20220659003844,"TempMin":64.58159862955308}
+{"TimeSlotStart":"2018-03-23 11:45:00","Presence":true,"PresenceCnt":1,"TempCnt":8,"LocationId":"Room 3 ","TempAvg":65.08231524252135,"TempMax":65.50626275921196,"TempMin":64.89086043337605}
+{"TimeSlotStart":"2018-03-24 11:45:00","Presence":false,"PresenceCnt":0,"TempCnt":8,"LocationId":"Room 3 ","TempAvg":65.22650908659747,"TempMax":65.50115132233853,"TempMin":64.81240770496535}
+{"TimeSlotStart":"2018-03-25 11:45:00","Presence":false,"PresenceCnt":0,"TempCnt":8,"LocationId":"Room 3 ","TempAvg":65.26858043898615,"TempMax":65.69186836742982,"TempMin":64.80570634417326}
+{"TimeSlotStart":"2018-03-23 00:00:00","Presence":false,"PresenceCnt":0,"TempCnt":0,"TempAvg":0.0,"TempMax":0.0,"TempMin":0.0}
+{"TimeSlotStart":"2018-03-23 01:00:00","Presence":false,"PresenceCnt":0,"TempCnt":0,"TempAvg":0.0,"TempMax":0.0,"TempMin":0.0}
+{"TimeSlotStart":"2018-03-23 02:00:00","Presence":false,"PresenceCnt":0,"TempCnt":0,"TempAvg":0.0,"TempMax":0.0,"TempMin":0.0}
+{"TimeSlotStart":"2018-03-23 03:00:00","Presence":false,"PresenceCnt":0,"TempCnt":0,"TempAvg":0.0,"TempMax":0.0,"TempMin":0.0}
+{"TimeSlotStart":"2018-03-23 04:00:00","Presence":false,"PresenceCnt":0,"TempCnt":0,"TempAvg":0.0,"TempMax":0.0,"TempMin":0.0}
+{"TimeSlotStart":"2018-03-23 05:00:00","Presence":false,"PresenceCnt":0,"TempCnt":0,"TempAvg":0.0,"TempMax":0.0,"TempMin":0.0}
+{"TimeSlotStart":"2018-03-23 06:00:00","Presence":false,"PresenceCnt":0,"TempCnt":0,"TempAvg":0.0,"TempMax":0.0,"TempMin":0.0}
+{"TimeSlotStart":"2018-03-23 07:00:00","Presence":false,"PresenceCnt":0,"TempCnt":0,"TempAvg":0.0,"TempMax":0.0,"TempMin":0.0}
+{"TimeSlotStart":"2018-03-23 08:00:00","Presence":false,"PresenceCnt":0,"TempCnt":0,"TempAvg":0.0,"TempMax":0.0,"TempMin":0.0}
+{"TimeSlotStart":"2018-03-23 09:00:00","Presence":false,"PresenceCnt":0,"TempCnt":0,"TempAvg":0.0,"TempMax":0.0,"TempMin":0.0}
+{"TimeSlotStart":"2018-03-23 10:00:00","Presence":false,"PresenceCnt":0,"TempCnt":0,"TempAvg":0.0,"TempMax":0.0,"TempMin":0.0}
+{"TimeSlotStart":"2018-03-23 11:00:00","Presence":false,"PresenceCnt":0,"TempCnt":0,"TempAvg":0.0,"TempMax":0.0,"TempMin":0.0}
+{"TimeSlotStart":"2018-03-23 12:00:00","Presence":false,"PresenceCnt":0,"TempCnt":0,"TempAvg":0.0,"TempMax":0.0,"TempMin":0.0}
+{"TimeSlotStart":"2018-03-23 13:00:00","Presence":false,"PresenceCnt":0,"TempCnt":0,"TempAvg":0.0,"TempMax":0.0,"TempMin":0.0}
+{"TimeSlotStart":"2018-03-23 14:00:00","Presence":false,"PresenceCnt":0,"TempCnt":0,"TempAvg":0.0,"TempMax":0.0,"TempMin":0.0}
+{"TimeSlotStart":"2018-03-23 15:00:00","Presence":false,"PresenceCnt":0,"TempCnt":0,"TempAvg":0.0,"TempMax":0.0,"TempMin":0.0}

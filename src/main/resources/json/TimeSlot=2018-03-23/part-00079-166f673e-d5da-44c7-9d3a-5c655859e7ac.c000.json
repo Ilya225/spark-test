@@ -1,0 +1,6 @@
+{"TimeSlotStart":"2018-03-23 03:15:00"}
+{"TimeSlotStart":"2018-03-23 05:45:00"}
+{"LocationId":"Room 3 ","window":{"start":"2018-03-23T11:45:00.000+02:00","end":"2018-03-23T12:00:00.000+02:00"},"TempAvg":65.08231524252135,"TempMax":65.50626275921196,"TempMin":64.89086043337605,"TempCnt":8,"PresenceCnt":1,"Presence":"true","TimeSlotStart":"2018-03-23 11:45:00"}
+{"LocationId":"Room 1 ","window":{"start":"2018-03-23T11:45:00.000+02:00","end":"2018-03-23T12:00:00.000+02:00"},"TempAvg":65.00849603580932,"TempMax":65.1116598809973,"TempMin":64.89235313800518,"TempCnt":4,"PresenceCnt":1,"Presence":"true","TimeSlotStart":"2018-03-23 11:45:00"}
+{"LocationId":"Room 0 ","window":{"start":"2018-03-23T11:45:00.000+02:00","end":"2018-03-23T12:00:00.000+02:00"},"TempAvg":65.0700426896641,"TempMax":65.39024481526586,"TempMin":64.8920068447585,"TempCnt":12,"PresenceCnt":0,"Presence":"false","TimeSlotStart":"2018-03-23 11:45:00"}
+{"LocationId":"Room 2 ","window":{"start":"2018-03-23T11:45:00.000+02:00","end":"2018-03-23T12:00:00.000+02:00"},"TempAvg":65.22898675920342,"TempMax":65.32715019592045,"TempMin":65.10805411144437,"TempCnt":8,"PresenceCnt":1,"Presence":"true","TimeSlotStart":"2018-03-23 11:45:00"}
